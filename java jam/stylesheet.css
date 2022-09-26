@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* Enlarges all font */
+    font-size: large;
+}
+
+
+nav,
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    /* Lighter coffee colour font */
+    color: #6F4E37;
+}
+
+/*  */
+h1,
+h2,
+h3 {
+    /* Dark coffee colour font */
+    color: #553c2a;
+    /* Coffee typography to visually seperate headings compared to normal paragraphs */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*  */
+p,
+ul,
+dl {
+    /* Dark coffee colour font */
+    color: #553c2a;
+    font-family: Arial, Helvetica, sans-serif;
+}
